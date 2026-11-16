@@ -2,7 +2,7 @@
 
 Any audio file placed in `episodes/` becomes an episode in a podcast feed.
 
-- Feed URL: `https://<your-username>.github.io/<this-repo>/feed.xml`
+- Feed URL: `https://jpitkin.github.io/Test/feed.xml`
 - Add an episode: upload a file to `episodes/` (web upload or `git push`).
   The feed rebuilds automatically in a minute or two.
 - Remove an episode: delete the file from `episodes/`.
